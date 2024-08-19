@@ -5,4 +5,3 @@
 3. **Run the application** with `docker-compose up -d`.
 4. **Access your application** on `http://localhost:3000`.
 
-This setup should allow you to quickly deploy your Node.js application on any system that has Docker installed, with an environment closely matching your development setup.
